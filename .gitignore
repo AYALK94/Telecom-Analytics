@@ -1,0 +1,9 @@
+# Ignore all .log files
+*.log
+
+# Ignore the env folder (common for virtual environments)
+env/
+env
+
+# Ignore specific file
+secret_config.json
